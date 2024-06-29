@@ -2,7 +2,7 @@
     Author Ullas S
 */
 
-// Implementation of stack and demonstration of push() and pop() operations
+// Implementation of stack and demonstration of push(), pop() and peek() operations
 
 #include<stdio.h>
 #include<stdlib.h>
